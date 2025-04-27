@@ -1,0 +1,6 @@
+-f ../filelist/common.f
+-f ../filelist/apb_vip.f
+-f ../filelist/i2c_vip.f
+-f ../filelist/rtl.f
+-f ../filelist/tb.f
+-f ../filelist/tests.f
